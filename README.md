@@ -1,9 +1,10 @@
 # AsteroidNeo
 
 
-To successfully run the project without encountering any build errors, run the "pod install" command in the downloaded project's terminal after downloading it from Github.
+Before running the project, please take the steps listed below; else, compile time errors will occur.
 
-please open the project xcode 14 and later, as i have used xcode14.
+1. As I did use xcode14, kindly ensure that the xcode IDE is version 14 or later to run the project.
+2. To successfully run the project without encountering any build errors, run the "pod install" command in the downloaded project's terminal after downloading it from Github.
 
 
 
